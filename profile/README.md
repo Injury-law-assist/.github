@@ -1,12 +1,6 @@
-## Hi there 👋
+## 시스템 아키텍처
+![제목 없는 다이어그램 (3)](https://github.com/user-attachments/assets/f7b16e14-9d84-4793-b857-4a2b4b3eef9b)
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ERD
+![image](https://github.com/user-attachments/assets/c54799c7-df62-43ca-b829-03409e0e16d5)
